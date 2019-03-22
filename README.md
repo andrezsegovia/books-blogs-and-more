@@ -17,3 +17,5 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 - [Dev Community](https://dev.to/)
 # Interesting Websites
 - [GoalKicker](https://goalkicker.com/)
+# Posts
+- Creating Modular Code Without Dependencies by Konrad Gadzinowski on Hackernood [link](https://hackernoon.com/creating-truly-modular-code-with-no-dependencies-16f8f784d4a6)
