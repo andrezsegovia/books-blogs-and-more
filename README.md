@@ -20,3 +20,4 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 - Go Patterns [link](http://tmrts.com/go-patterns/#structural-patterns)
 # Posts
 - Creating Modular Code Without Dependencies by Konrad Gadzinowski on Hackernood [link](https://hackernoon.com/creating-truly-modular-code-with-no-dependencies-16f8f784d4a6)
+- Build An Interactive Command-Line Application with Node.js [link](https://scotch.io/tutorials/build-an-interactive-command-line-application-with-nodejs)
