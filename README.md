@@ -1,6 +1,6 @@
 # Description
 This repo contains lists of books, blogs and more. Everything is about Computer Science, Software Development and Internet of Thing.
-# books
+# Books
 - Clean Code: A handbook of agile software crafsmanship
 - Head First Design Patterns: A Brain-Friendly Guide
 - The Passionate Programmer: Creating a Remarkable Career in Software Development
@@ -21,3 +21,7 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 # Posts
 - Creating Modular Code Without Dependencies by Konrad Gadzinowski on Hackernood [link](https://hackernoon.com/creating-truly-modular-code-with-no-dependencies-16f8f784d4a6)
 - Build An Interactive Command-Line Application with Node.json Scotch.io by Rowland Ekemezie [link](https://scotch.io/tutorials/build-an-interactive-command-line-application-with-nodejs)
+# Open Source Projects
+- A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments (Node.js) [link](https://github.com/mrvautin/expressCart)
+- The next open source file uploader for web browsers (Node.js, React) [link](https://github.com/transloadit/uppy)
+- Life as a git. Commit on your life (Node.js) [link](https://github.com/ByronHsu/life-commit)
