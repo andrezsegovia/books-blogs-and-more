@@ -25,3 +25,4 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 - A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments (Node.js) [link](https://github.com/mrvautin/expressCart)
 - The next open source file uploader for web browsers (Node.js, React) [link](https://github.com/transloadit/uppy)
 - Life as a git. Commit on your life (Node.js) [link](https://github.com/ByronHsu/life-commit)
+- A Collection of application ideas which can be used to improve your coding skills [link](https://github.com/florinpop17/app-ideas)
