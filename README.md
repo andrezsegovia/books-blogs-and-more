@@ -28,3 +28,5 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 - Life as a git. Commit on your life (Node.js) [link](https://github.com/ByronHsu/life-commit)
 - A Collection of application ideas which can be used to improve your coding skills [link](https://github.com/florinpop17/app-ideas)
 - A curated list of awesome developer tools for writing cross-platform Node.js code [link](https://github.com/bcoe/awesome-cross-platform-nodejs)
+- The largest Node.js best practices list [link](https://github.com/i0natan/nodebestpractices)
+- 33 concepts every JavaScript developer should know [link](https://github.com/leonardomso/33-js-concepts)
