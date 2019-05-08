@@ -31,3 +31,4 @@ This repo contains lists of books, blogs and more. Everything is about Computer 
 - The largest Node.js best practices list [link](https://github.com/i0natan/nodebestpractices)
 - 33 concepts every JavaScript developer should know [link](https://github.com/leonardomso/33-js-concepts)
 - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less [link](https://github.com/30-seconds/30-seconds-of-code)
+- Deploy network-wide ad-blocking with Pi-hole and a Raspberry Pi [link](https://www.balena.io/blog/deploy-network-wide-ad-blocking-with-pi-hole-and-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-pihole&utm_content=v1&u_id=16a97cf3a151fd-0400922ad326ea-71167019-2a3000-16a97cf3a1648c)
